@@ -1,5 +1,5 @@
 {
-  "name": "jordivega/prova",
+  "name": "guillem/prova",
   "type": "project",
   "autoload": {
     "classmap": [
@@ -11,8 +11,8 @@
   },
   "authors": [
     {
-      "name": "jordivega",
-      "email": "jordivega@iesebre.com"
+      "name": "guillem",
+      "email": "gsancho@iesebre.com"
     }
   ],
   "require": {
