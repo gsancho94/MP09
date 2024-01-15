@@ -12,6 +12,7 @@
   </component>
   <component name="PhpIncludePathManager">
     <include_path>
+<<<<<<< HEAD
       <path value="$PROJECT_DIR$/laravelApp/vendor/pragmarx/google2fa" />
       <path value="$PROJECT_DIR$/laravelApp/vendor/league/flysystem" />
       <path value="$PROJECT_DIR$/laravelApp/vendor/league/commonmark" />
@@ -143,6 +144,20 @@
       <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/laravelApp/phpunit.xml" custom_loader_path="$PROJECT_DIR$/laravelApp/vendor/autoload.php" use_configuration_file="true" />
     </phpunit_settings>
   </component>
+=======
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+>>>>>>> d100a08a78755e3a0d32b5ae7ecd6b495a1cecfa
   <component name="PsalmOptionsConfiguration">
     <option name="transferred" value="true" />
   </component>

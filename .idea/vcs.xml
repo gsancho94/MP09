@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/laravelApp" vcs="Git" />
+=======
+>>>>>>> d100a08a78755e3a0d32b5ae7ecd6b495a1cecfa
   </component>
 </project>
